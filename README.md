@@ -7,7 +7,7 @@
 ## Latihan
 # Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
 Perhatikan Soal Berikut
-![Soal](isi%20foto/soal%20latihan.png)
+![Soal](isi%20foto/soal%20latihan.png.png)
 
 dan ini hasil dari source code diatas 
 ```python
@@ -53,7 +53,7 @@ print("   Hasil : lambda s: "".join(set(s)))")
 Disini saya sudah rubah ke lambda Kalau di Tugas Latihan tidak ada outputnya, tp disini saya akan berikan contoh untuk output dari source code tersebut
 Berikut outputnya
 
-![hasil](isi%20foto/hasil%20latihan.png)
+![hasil](isi%20foto/hasil%20latihan.png.png)
  * Dalam Hasil INPUTAN Diatas Ialah hasil dari proses lambda
  
  ## Tugas Praktikum
@@ -166,7 +166,7 @@ while True:
 Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya.
 Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 
-![hasil](isi%20foto/hasil%20menu.png)
+![hasil](isi%20foto/hasil%20menu.png.png)
    
     Terdapat 5 Pilihan menu, yaitu :
 
@@ -179,22 +179,22 @@ Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 * Lihat Data Nilai Mahasiswa<br>
 System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Pilih Menu (1-2-3-4-5)
 Inilah tampilan fitur Lihat Data :
-![hasil](isi%20foto/lihat%20data.png)
+![hasil](isi%20foto/lihat%20data.png.png)
 
 * Menambahkan Data <br>
 
-![hasil](isi%20foto/tambah%20data%20.png)
+![hasil](isi%20foto/tambah%20data%20.png.png)
 
 * ubah data <br> 
 Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah
 Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama herli , Maka akan muncul tampilan seperti ini :
-![hasil](isi%20foto/ubah%20data.png)
+![hasil](isi%20foto/ubah%20data.png.png)
 
 * Fitur Hapus Data Nilai Mahasiswa <br>
 System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5)
 Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama herli
 
-![hasil](isi%20foto/hapus%20data.png)
+![hasil](isi%20foto/hapus%20data.png.png)
 
 ## FLOWCHART
 
